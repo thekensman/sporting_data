@@ -7,7 +7,7 @@ The startup has asked you to integrate with two data providers they have contrac
 You are being asked to aggregate this data in an API and return it via three endpoints:
 1. List all Players: this should return all the data for every player in a consistent format without duplicating any data. Bonus points if you implement sorting and pagination.
 2. Single Player Bio Information: this should return the id, first name, last name, team, position, height, weight, jersey, and start year of a given player when passed the player id in the URL.
-3. Single Player stats: this should return the id, catch total, hit total, pitch total, run total, jump total, and current year when passed the player id in the url.
+3. Single Player Stats: this should return the id, catch total, hit total, pitch total, run total, jump total, and current year when passed the player id in the url.
 
 We will be looking for your use of models via a library like pydantic or something similar:
 
