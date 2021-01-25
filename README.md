@@ -15,6 +15,6 @@ https://pydantic-docs.helpmanual.io/usage/models/
 
 You can see the raw responses from SportTastic and SuperPlayer here:
 
-https://github.io/thekensman/sporting_data/sporttastic.json
+https://thekensman.github.io/sporting_data/sporttastic.json
 
-https://github.io/thekensman/sporting_data/superplayer.json
+https://thekensman.github.io/sporting_data/superplayer.json
