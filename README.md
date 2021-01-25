@@ -1,6 +1,6 @@
 # sporting_data
 
-You are being asked to create an API for a startup specializing in a new and exciting game: BallSport! In BallSport each player can be assigned one of five positions: Catcher, Pitcher, Runner, Jumper, and Hitter. And because of the specialized nature of this game, each player can perform only within their given position.
+You are being asked to create an API for a startup specializing in a new and exciting game: BallSport! In BallSport each player can be assigned one of five positions: Catcher, Pitcher, Runner, Jumper, and Hitter. 
 
 The startup has asked you to integrate with two data providers they have contracted with: SportTastic and SuperPlayer. Each of these providers contains vital information about the players in the top six teams in the league. 
 
