@@ -1,0 +1,1 @@
+from sporting_data.app.app import app
