@@ -27,4 +27,4 @@ http://localhost:5000/players/_id_/bio
 
 http://localhost:5000/players/_id_/stats
 
-Bonus points if you include handling for errors if the user passes in an id that is not found.
+Note: Your run functions must return two elements: the response body and response code. Bonus points if you include handling for errors if the user passes in an id that is not found.
