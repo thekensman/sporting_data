@@ -18,3 +18,13 @@ You can see the raw responses from SportTastic and SuperPlayer here:
 https://thekensman.github.io/sporting_data/sporttastic.json
 
 https://thekensman.github.io/sporting_data/superplayer.json
+
+You can start the application by running `sporting_data/app/app.py` in a debugger of your choice or through command line. If you do use the command line you will need to add the `sporting_data` directory to your PYTHONPATH. You can hit the API via the following routes:
+
+http://localhost:5000/players
+
+http://localhost:5000/players/_id_/bio
+
+http://localhost:5000/players/_id_/stats
+
+Bonus points if you include handling for errors if the user passes in an id that is not found.
